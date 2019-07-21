@@ -1,4 +1,4 @@
-$(function() {
+$(functionn() {
 
     var header = $("#header"),
         introH = $("#intro").innerHeight(),
